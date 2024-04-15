@@ -31,4 +31,4 @@ jobs:
    
     - name: test_app2
       run: python test_app2.py
-        pytest
+       
